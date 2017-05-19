@@ -1,0 +1,11 @@
+/* main.css */
+
+.counties {
+  fill: #d3d3d3;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
